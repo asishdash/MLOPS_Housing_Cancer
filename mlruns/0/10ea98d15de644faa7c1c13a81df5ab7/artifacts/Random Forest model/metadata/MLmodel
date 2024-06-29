@@ -1,0 +1,30 @@
+artifact_path: Random Forest model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 246683
+model_uuid: da5c60654a8644539b9ea1323b08a78c
+run_id: 10ea98d15de644faa7c1c13a81df5ab7
+signature:
+  inputs: '[{"type": "long", "name": "OverallQual", "required": true}, {"type": "long",
+    "name": "GrLivArea", "required": true}, {"type": "long", "name": "GarageCars",
+    "required": true}, {"type": "long", "name": "GarageArea", "required": true}, {"type":
+    "long", "name": "TotalBsmtSF", "required": true}, {"type": "long", "name": "1stFlrSF",
+    "required": true}, {"type": "long", "name": "FullBath", "required": true}, {"type":
+    "long", "name": "TotRmsAbvGrd", "required": true}, {"type": "long", "name": "YearBuilt",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-06-23 16:27:25.215007'

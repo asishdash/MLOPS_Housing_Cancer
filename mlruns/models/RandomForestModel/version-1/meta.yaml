@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1719156252272
+current_stage: None
+description: null
+last_updated_timestamp: 1719156252272
+name: RandomForestModel
+run_id: 97f637063d7348ffa423b11fe168b3c2
+run_link: null
+source: file:///Users/asishdash/Documents/AD/learn/git_repo/MLOPS_Housing_Cancer/mlruns/0/97f637063d7348ffa423b11fe168b3c2/artifacts/Random
+  Forest model
+status: READY
+status_message: null
+storage_location: file:///Users/asishdash/Documents/AD/learn/git_repo/MLOPS_Housing_Cancer/mlruns/0/97f637063d7348ffa423b11fe168b3c2/artifacts/Random
+  Forest model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/asishdash/Documents/AD/learn/git_repo/MLOPS_Housing_Cancer/mlruns/0/10ea98d15de644faa7c1c13a81df5ab7/artifacts
+end_time: 1719160046540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10ea98d15de644faa7c1c13a81df5ab7
+run_name: casual-hawk-47
+run_uuid: 10ea98d15de644faa7c1c13a81df5ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719160045074
+status: 3
+tags: []
+user_id: asishdash
